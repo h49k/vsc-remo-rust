@@ -18,6 +18,7 @@
 		"rust-lang.rust",
 		"bungcip.better-toml",
 		"vadimcn.vscode-lldb",
+		"matklad.rust-analyzer",
 		"serayuzgur.crates"
 		// (Optional) Displays the current CPU stats, memory/disk consumption, clock freq. etc. of the container host in the VS Code status bar.
 		// "mutantdino.resourcemonitor"
